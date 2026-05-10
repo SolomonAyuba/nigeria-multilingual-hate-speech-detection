@@ -154,7 +154,7 @@ Ogueji, K., Zhu, Y., & Lin, J. (2021). Small data? No problem! Exploring the via
 
 ## About This Project
 
-**Author:** Solomon Ayuba 
+**Author:** Solomon Ayuba  
 **Institution:** Department of Data Science, School of Computing, Miva Open University, Abuja, Nigeria  
 **Programme:** BSc (Hons) Data Science  
 **Year:** 2026  
