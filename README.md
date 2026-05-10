@@ -16,8 +16,8 @@ This project is the implementation component of my final year dissertation at Mi
 
 Two classification models are evaluated under identical experimental conditions for each language:
 
-- **TF-IDF + Logistic Regression** — a surface-level lexical baseline
-- **Fine-tuned AfriBERTa** — a transformer pre-trained on 11 African languages
+- **TF-IDF + Logistic Regression**: a surface-level lexical baseline
+- **Fine-tuned AfriBERTa**: a transformer pre-trained on 11 African languages
 
 The study addresses a gap left by the AfriHate paper itself: no prior work had conducted a Nigeria-specific comparative analysis of these four language subsets, and no TF-IDF baseline had been reported for them.
 
@@ -154,7 +154,7 @@ Ogueji, K., Zhu, Y., & Lin, J. (2021). Small data? No problem! Exploring the via
 
 ## About This Project
 
-**Author:** Solomon Ayuba | 2023/C/DSC/0151  
+**Author:** Solomon Ayuba 
 **Institution:** Department of Data Science, School of Computing, Miva Open University, Abuja, Nigeria  
 **Programme:** BSc (Hons) Data Science  
 **Year:** 2026  
